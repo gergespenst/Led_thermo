@@ -1,0 +1,945 @@
+Loaded 84 symbols
+Program header 0 , 854 bytes of data at vaddr=0x00000000, paddr=0x00000000, flags=00000005 loading
+Program header 1 , 13 bytes of data at vaddr=0x00800060, paddr=0x00800060, flags=00000006 loading
+[LINE] Include dir: '../.'
+[LINE] Include dir: 'c:\program files (x86)\atmel\atmel toolchain\avr8 gcc\native\3.4.1061\avr8-gnu-toolchain\avr\include\util'
+[LINE] Include dir: 'c:\program files (x86)\atmel\atmel toolchain\avr8 gcc\native\3.4.1061\avr8-gnu-toolchain\avr\include'
+Line 64: 0000003E-00000040
+Line 66: 00000040-00000060
+Line 68: 00000060-00000070
+Line 71: 00000070-00000080
+Line 74: 00000080-000000AA
+Line 75: 000000AA-000000AC
+Line 77: 000000AC-000000DA
+Line 81: 000000DA-000000E0
+Line 82: 000000E0-000000EA
+Line 99: 000000EA-0000010C
+Line 100: 0000010C-00000116
+Line 101: 00000116-00000138
+Line 121: 00000138-00000138
+Line 124: 00000138-0000013A
+Line 125: 0000013A-0000013C
+Loaded source file c:\program files (x86)\atmel\atmel toolchain\avr8 gcc\native\3.4.1061\avr8-gnu-toolchain\avr\include\util\delay.h
+Line 245: 0000013C-00000148
+Line 128: 00000148-0000014A
+Loaded source file c:\program files (x86)\atmel\atmel toolchain\avr8 gcc\native\3.4.1061\avr8-gnu-toolchain\avr\include\util\delay.h
+Line 245: 0000014A-00000150
+Line 131: 00000150-00000152
+Loaded source file c:\program files (x86)\atmel\atmel toolchain\avr8 gcc\native\3.4.1061\avr8-gnu-toolchain\avr\include\util\delay.h
+Line 245: 00000152-0000015E
+Line 131: 0000015E-00000160
+Line 135: 00000160-00000164
+Line 139: 00000164-00000164
+Line 141: 00000164-00000166
+Line 142: 00000166-00000168
+Loaded source file c:\program files (x86)\atmel\atmel toolchain\avr8 gcc\native\3.4.1061\avr8-gnu-toolchain\avr\include\util\delay.h
+Line 245: 00000168-0000016E
+[LINE] Extended opcode - unknown 4
+Line 145: 0000016E-00000170
+Line 145: 00000170-00000172
+Loaded source file c:\program files (x86)\atmel\atmel toolchain\avr8 gcc\native\3.4.1061\avr8-gnu-toolchain\avr\include\util\delay.h
+Line 245: 00000172-00000178
+Line 148: 00000178-0000017C
+Line 152: 0000017C-0000017C
+Line 155: 0000017C-0000017E
+Line 156: 0000017E-00000180
+Loaded source file c:\program files (x86)\atmel\atmel toolchain\avr8 gcc\native\3.4.1061\avr8-gnu-toolchain\avr\include\util\delay.h
+Line 245: 00000180-00000186
+Line 159: 00000186-00000188
+Loaded source file c:\program files (x86)\atmel\atmel toolchain\avr8 gcc\native\3.4.1061\avr8-gnu-toolchain\avr\include\util\delay.h
+Line 245: 00000188-0000018E
+Line 162: 0000018E-00000190
+Loaded source file c:\program files (x86)\atmel\atmel toolchain\avr8 gcc\native\3.4.1061\avr8-gnu-toolchain\avr\include\util\delay.h
+Line 245: 00000190-00000196
+Line 166: 00000196-0000019E
+Line 169: 00000000-00000004
+Line 171: 00000004-00000006
+[LINE] Extended opcode - unknown 4
+Line 170: 00000006-0000000A
+Line 171: 0000000A-0000000C
+Line 174: 0000000C-00000014
+Line 173: 00000014-00000016
+Line 174: 00000016-0000001A
+Line 177: 0000001A-00000022
+Line 180: 0000019E-000001A4
+[LINE] Extended opcode - unknown 4
+Line 182: 000001A4-000001A8
+Line 182: 000001A8-000001AA
+Line 184: 000001AA-000001B0
+Line 185: 000001B0-000001B4
+Line 187: 000001B4-000001BA
+Line 206: 00000000-00000002
+Line 211: 00000002-00000004
+Line 212: 00000004-00000008
+Line 213: 00000008-0000000C
+Line 215: 0000000C-00000014
+Loaded source file c:\program files (x86)\atmel\atmel toolchain\avr8 gcc\native\3.4.1061\avr8-gnu-toolchain\avr\include\util\delay.h
+Line 163: 00000014-00000026
+Line 217: 00000026-0000002E
+Line 219: 0000002E-00000034
+Line 221: 00000034-00000036
+Line 222: 00000036-0000003A
+Line 223: 0000003A-0000003E
+Line 225: 0000003E-00000042
+Line 226: 00000042-00000044
+Line 225: 00000044-0000004A
+Line 228: 0000004A-00000050
+[LINE] Extended opcode - unknown 4
+Line 235: 000001BA-000001BE
+[LINE] Extended opcode - unknown 4
+Line 237: 000001BE-000001C0
+Line 236: 000001C0-000001C8
+Line 239: 000001C8-000001D6
+Line 242: 000001D6-000001E6
+Line 243: 000001E6-000001F2
+Line 244: 000001F2-000001F8
+Line 246: 000001F8-000001FE
+Line 251: 000001FE-00000202
+Line 255: 00000202-00000206
+Line 256: 00000206-00000208
+Line 254: 00000208-0000020A
+Line 252: 0000020A-0000020C
+Line 250: 0000020C-00000210
+Line 249: 00000210-00000214
+Line 258: 00000214-00000218
+Line 259: 00000218-0000021A
+Line 260: 0000021A-0000021E
+Line 261: 0000021E-00000222
+Line 262: 00000222-00000234
+Line 263: 00000234-0000023A
+Line 268: 0000023A-00000242
+Line 275: 00000242-00000246
+Line 276: 00000246-0000024C
+Line 281: 0000024C-00000252
+Line 282: 00000252-00000254
+Line 283: 00000254-00000256
+Line 284: 00000256-00000258
+Line 285: 00000258-0000025C
+Line 289: 0000025C-0000025E
+Line 288: 0000025E-00000260
+Line 287: 00000260-00000262
+Line 290: 00000262-00000268
+Line 292: 00000268-0000026C
+Line 294: 0000026C-0000026E
+Line 295: 0000026E-00000270
+Line 297: 00000270-00000272
+Line 298: 00000272-00000274
+Line 299: 00000274-00000280
+Line 300: 00000280-00000284
+Line 301: 00000284-00000296
+Line 303: 00000296-00000296
+Line 304: 00000296-000002A2
+Line 305: 000002A2-000002A8
+Line 306: 000002A8-000002B4
+Line 307: 000002B4-000002B6
+[LINE] Extended opcode - unknown 4
+Line 308: 000002B6-000002BC
+[LINE] Extended opcode - unknown 4
+Line 310: 000002BC-000002BE
+[LINE] Extended opcode - unknown 4
+Line 311: 000002BE-000002CA
+[LINE] Extended opcode - unknown 4
+Line 312: 000002CA-000002D4
+Loaded source file c:\program files (x86)\atmel\atmel toolchain\avr8 gcc\native\3.4.1061\avr8-gnu-toolchain\avr\include\util\delay.h
+Line 163: 000002D4-000002E8
+COMPILE UNIT [00000475]
+ producer = "GNU C++ 4.8.1 -mmcu=at90s2313 -msp8 -g2 -Os -funsigned-char -funsigned-bitfields -ffunction-sections -fdata-sections -fpack-struct -fshort-enums -fno-rtti -fno-enforce-eh-specs -fno-exceptions"
+ language = 00000004
+ name = ".././LED_thermo_cpp.cpp"
+ comp dir = "F:\NAR\2016\hobby\LED_thermo_cpp\LED_thermo_cpp\Debug"
+ unknown 55 = 00000000
+ low pc = [00000000]
+ unknown 52 = [00000000]
+ statement list = 00000000
+ BASE TYPE [00000493]
+  byte size = 00000001
+  encoding = 00000006
+  name = "signed char"
+ TYPEDEF [0000049A]
+  name = "uint8_t"
+  decl file = 00000003
+  decl line = 0000007A
+  type = REF 000004A5
+ BASE TYPE [000004A5]
+  byte size = 00000001
+  encoding = 00000008
+  name = "unsigned char"
+ BASE TYPE [000004AC]
+  byte size = 00000002
+  encoding = 00000005
+  name = "int"
+ TYPEDEF [000004B3]
+  name = "uint16_t"
+  decl file = 00000003
+  decl line = 0000007C
+  type = REF 000004BE
+ BASE TYPE [000004BE]
+  byte size = 00000002
+  encoding = 00000007
+  name = "unsigned int"
+ BASE TYPE [000004C5]
+  byte size = 00000004
+  encoding = 00000005
+  name = "long int"
+ TYPEDEF [000004CC]
+  name = "uint32_t"
+  decl file = 00000003
+  decl line = 0000007E
+  type = REF 000004D7
+ BASE TYPE [000004D7]
+  byte size = 00000004
+  encoding = 00000007
+  name = "long unsigned int"
+ BASE TYPE [000004DE]
+  byte size = 00000008
+  encoding = 00000005
+  name = "long long int"
+ BASE TYPE [000004E5]
+  byte size = 00000008
+  encoding = 00000007
+  name = "long long unsigned int"
+ SUBPROGRAM [000004EC]
+  name = "_delay_us"
+  decl file = 00000002
+  decl line = 000000E0
+  inline = 00000003
+  sibling = REF 0000052B
+  FORMAL PARAMETER [000004F8]
+   name = "__us"
+   decl file = 00000002
+   decl line = 000000E0
+   type = REF 0000052B
+  LEXICAL BLOCK [00000503]
+   VARIABLE [00000504]
+    name = "__tmp"
+    decl file = 00000002
+    decl line = 000000E2
+    type = REF 0000052B
+   VARIABLE [0000050F]
+    name = "__ticks_dc"
+    decl file = 00000002
+    decl line = 000000E6
+    type = REF 000004CC
+   SUBPROGRAM [0000051A]
+    external = 00000001
+    name = "__builtin_avr_delay_cycles"
+    decl file = 00000002
+    decl line = 000000E7
+    declaration = 00000001
+    FORMAL PARAMETER [00000523]
+     type = REF 000004D7
+ BASE TYPE [0000052B]
+  byte size = 00000004
+  encoding = 00000004
+  name = "double"
+ SUBPROGRAM [00000532]
+  name = "_delay_ms"
+  decl file = 00000002
+  decl line = 0000008E
+  inline = 00000003
+  sibling = REF 00000571
+  FORMAL PARAMETER [0000053E]
+   name = "__ms"
+   decl file = 00000002
+   decl line = 0000008E
+   type = REF 0000052B
+  LEXICAL BLOCK [00000549]
+   VARIABLE [0000054A]
+    name = "__tmp"
+    decl file = 00000002
+    decl line = 00000090
+    type = REF 0000052B
+   VARIABLE [00000555]
+    name = "__ticks_dc"
+    decl file = 00000002
+    decl line = 00000094
+    type = REF 000004CC
+   SUBPROGRAM [00000560]
+    external = 00000001
+    name = "__builtin_avr_delay_cycles"
+    decl file = 00000002
+    decl line = 00000095
+    declaration = 00000001
+    FORMAL PARAMETER [00000569]
+     type = REF 000004D7
+ SUBPROGRAM [00000571]
+  external = 00000001
+  name = "DynamicIndication"
+  decl file = 00000001
+  decl line = 00000040
+  unknown 2007 = "_Z17DynamicIndicationac"
+  low pc = [0000003E]
+  high pc = [000000EA]
+  frame base (3 bytes) = [R32]+2 
+  unknown 2117 = 00000001
+  sibling = REF 0000061C
+  FORMAL PARAMETER [0000058E]
+   name = "number"
+   decl file = 00000001
+   decl line = 00000040
+   type = REF 00000493
+   location = 00000000
+  FORMAL PARAMETER [0000059D]
+   name = "dotNumber"
+   decl file = 00000001
+   decl line = 00000040
+   type = REF 0000061C
+   location = 00000053
+  LEXICAL BLOCK [000005AC]
+   low pc = [00000040]
+   high pc = [000000EA]
+   VARIABLE [000005B5]
+    name = "step"
+    decl file = 00000001
+    decl line = 00000041
+    type = REF 0000061C
+    location (5 bytes) = 00800060 
+   LEXICAL BLOCK [000005C6]
+    low pc = [00000080]
+    high pc = [000000A2]
+    sibling = REF 000005F2
+    VARIABLE [000005D3]
+     name = "__addr16"
+     decl file = 00000001
+     decl line = 0000004A
+     type = REF 000004B3
+     location = 00000098
+    VARIABLE [000005E2]
+     name = "__result"
+     decl file = 00000001
+     decl line = 0000004A
+     type = REF 0000049A
+     location = 000000D5
+   LEXICAL BLOCK [000005F2]
+    low pc = [000000AC]
+    high pc = [000000CE]
+    VARIABLE [000005FB]
+     name = "__addr16"
+     decl file = 00000001
+     decl line = 0000004D
+     type = REF 000004B3
+     location = 000000E8
+    VARIABLE [0000060A]
+     name = "__result"
+     decl file = 00000001
+     decl line = 0000004D
+     type = REF 0000049A
+     location = 0000012D
+ BASE TYPE [0000061C]
+  byte size = 00000001
+  encoding = 00000008
+  name = "char"
+ SUBPROGRAM [00000623]
+  external = 00000001
+  name = "__vector_6"
+  decl file = 00000001
+  decl line = 00000063
+  low pc = [000000EA]
+  high pc = [00000138]
+  frame base = 00000140
+  unknown 2117 = 00000001
+  sibling = REF 00000646
+  Unknown 4109 [0000063C]
+   low pc = [00000116]
+   abstract origin = REF 00000571
+ SUBPROGRAM [00000646]
+  external = 00000001
+  name = "therm_reset"
+  decl file = 00000001
+  decl line = 00000079
+  unknown 2007 = "_Z11therm_resetv"
+  type = REF 0000049A
+  low pc = [00000138]
+  high pc = [00000164]
+  frame base (3 bytes) = [R32]+2 
+  unknown 2117 = 00000001
+  sibling = REF 00000726
+  LEXICAL BLOCK [00000667]
+   low pc = [00000138]
+   high pc = [00000160]
+   VARIABLE [00000670]
+    name = "i"
+    decl file = 00000001
+    decl line = 0000007A
+    type = REF 0000049A
+    location = 0000020B
+   INLINED SUBROUTINE [0000067D]
+    abstract origin = REF 000004EC
+    low pc = [0000013C]
+    high pc = [00000148]
+    unknown 58 = 00000001
+    unknown 59 = 0000007E
+    sibling = REF 000006B6
+    FORMAL PARAMETER [00000690]
+     abstract origin = REF 000004F8
+     const value = block (4 bytes)
+    LEXICAL BLOCK [0000069A]
+     low pc = [0000013C]
+     high pc = [00000148]
+     VARIABLE [000006A3]
+      abstract origin = REF 00000504
+      const value = block (4 bytes)
+     VARIABLE [000006AD]
+      abstract origin = REF 0000050F
+      const value = 00000B40
+   INLINED SUBROUTINE [000006B6]
+    abstract origin = REF 000004EC
+    low pc = [0000014A]
+    high pc = [00000150]
+    unknown 58 = 00000001
+    unknown 59 = 00000081
+    sibling = REF 000006EF
+    FORMAL PARAMETER [000006C9]
+     abstract origin = REF 000004F8
+     const value = block (4 bytes)
+    LEXICAL BLOCK [000006D3]
+     low pc = [0000014A]
+     high pc = [00000150]
+     VARIABLE [000006DC]
+      abstract origin = REF 00000504
+      const value = block (4 bytes)
+     VARIABLE [000006E6]
+      abstract origin = REF 0000050F
+      const value = 00000168
+   INLINED SUBROUTINE [000006EF]
+    abstract origin = REF 000004EC
+    low pc = [00000152]
+    high pc = [0000015E]
+    unknown 58 = 00000001
+    unknown 59 = 00000084
+    FORMAL PARAMETER [000006FE]
+     abstract origin = REF 000004F8
+     const value = block (4 bytes)
+    LEXICAL BLOCK [00000708]
+     low pc = [00000152]
+     high pc = [0000015E]
+     VARIABLE [00000711]
+      abstract origin = REF 00000504
+      const value = block (4 bytes)
+     VARIABLE [0000071B]
+      abstract origin = REF 0000050F
+      const value = 000009D8
+ SUBPROGRAM [00000726]
+  specification = REF 0000051A
+  inline = 00000000
+  sibling = REF 00000736
+  FORMAL PARAMETER [00000730]
+   type = REF 000004D7
+ SUBPROGRAM [00000736]
+  external = 00000001
+  name = "therm_write_bit"
+  decl file = 00000001
+  decl line = 0000008B
+  unknown 2007 = "_Z15therm_write_bith"
+  low pc = [00000164]
+  high pc = [0000017C]
+  frame base (3 bytes) = [R32]+2 
+  unknown 2117 = 00000001
+  sibling = REF 000007D0
+  FORMAL PARAMETER [00000753]
+   name = "bit"
+   decl file = 00000001
+   decl line = 0000008B
+   type = REF 0000049A
+   location = 0000023B
+  INLINED SUBROUTINE [00000762]
+   abstract origin = REF 000004EC
+   low pc = [00000168]
+   high pc = [0000016E]
+   unknown 58 = 00000001
+   unknown 59 = 0000008F
+   sibling = REF 0000079A
+   FORMAL PARAMETER [00000775]
+    abstract origin = REF 000004F8
+    const value = block (4 bytes)
+   LEXICAL BLOCK [0000077F]
+    low pc = [00000168]
+    high pc = [0000016E]
+    VARIABLE [00000788]
+     abstract origin = REF 00000504
+     const value = block (4 bytes)
+    VARIABLE [00000792]
+     abstract origin = REF 0000050F
+     const value = 00000006
+  INLINED SUBROUTINE [0000079A]
+   abstract origin = REF 000004EC
+   low pc = [00000172]
+   high pc = [00000178]
+   unknown 58 = 00000001
+   unknown 59 = 00000093
+   FORMAL PARAMETER [000007A9]
+    abstract origin = REF 000004F8
+    const value = block (4 bytes)
+   LEXICAL BLOCK [000007B3]
+    low pc = [00000172]
+    high pc = [00000178]
+    VARIABLE [000007BC]
+     abstract origin = REF 00000504
+     const value = block (4 bytes)
+    VARIABLE [000007C6]
+     abstract origin = REF 0000050F
+     const value = 00000168
+ SUBPROGRAM [000007D0]
+  external = 00000001
+  name = "therm_read_bit"
+  decl file = 00000001
+  decl line = 00000098
+  unknown 2007 = "_Z14therm_read_bitv"
+  type = REF 0000049A
+  low pc = [0000017C]
+  high pc = [0000019E]
+  frame base (3 bytes) = [R32]+2 
+  unknown 2117 = 00000001
+  sibling = REF 000008B0
+  LEXICAL BLOCK [000007F1]
+   low pc = [0000017C]
+   high pc = [00000196]
+   VARIABLE [000007FA]
+    name = "bit"
+    decl file = 00000001
+    decl line = 00000099
+    type = REF 0000049A
+    location = 0000025C
+   INLINED SUBROUTINE [00000809]
+    abstract origin = REF 000004EC
+    low pc = [00000180]
+    high pc = [00000186]
+    unknown 58 = 00000001
+    unknown 59 = 0000009D
+    sibling = REF 00000841
+    FORMAL PARAMETER [0000081C]
+     abstract origin = REF 000004F8
+     const value = block (4 bytes)
+    LEXICAL BLOCK [00000826]
+     low pc = [00000180]
+     high pc = [00000186]
+     VARIABLE [0000082F]
+      abstract origin = REF 00000504
+      const value = block (4 bytes)
+     VARIABLE [00000839]
+      abstract origin = REF 0000050F
+      const value = 00000006
+   INLINED SUBROUTINE [00000841]
+    abstract origin = REF 000004EC
+    low pc = [00000188]
+    high pc = [0000018E]
+    unknown 58 = 00000001
+    unknown 59 = 000000A0
+    sibling = REF 00000879
+    FORMAL PARAMETER [00000854]
+     abstract origin = REF 000004F8
+     const value = block (4 bytes)
+    LEXICAL BLOCK [0000085E]
+     low pc = [00000188]
+     high pc = [0000018E]
+     VARIABLE [00000867]
+      abstract origin = REF 00000504
+      const value = block (4 bytes)
+     VARIABLE [00000871]
+      abstract origin = REF 0000050F
+      const value = 00000054
+   INLINED SUBROUTINE [00000879]
+    abstract origin = REF 000004EC
+    low pc = [00000190]
+    high pc = [00000196]
+    unknown 58 = 00000001
+    unknown 59 = 000000A4
+    FORMAL PARAMETER [00000888]
+     abstract origin = REF 000004F8
+     const value = block (4 bytes)
+    LEXICAL BLOCK [00000892]
+     low pc = [00000190]
+     high pc = [00000196]
+     VARIABLE [0000089B]
+      abstract origin = REF 00000504
+      const value = block (4 bytes)
+     VARIABLE [000008A5]
+      abstract origin = REF 0000050F
+      const value = 0000010E
+ SUBPROGRAM [000008B0]
+  external = 00000001
+  name = "therm_read_byte"
+  decl file = 00000001
+  decl line = 000000A9
+  unknown 2007 = "_Z15therm_read_bytev"
+  type = REF 0000049A
+  low pc = [00000000]
+  high pc = [00000000]
+  frame base = 00000283
+  unknown 2117 = 00000001
+  sibling = REF 000008FF
+  LEXICAL BLOCK [000008D1]
+   low pc = [00000000]
+   high pc = [00000000]
+   VARIABLE [000008DA]
+    name = "i"
+    decl file = 00000001
+    decl line = 000000AA
+    type = REF 0000049A
+    location = 000002B2
+   VARIABLE [000008E7]
+    name = "n"
+    decl file = 00000001
+    decl line = 000000AA
+    type = REF 0000049A
+    location = 000002FA
+   Unknown 4109 [000008F4]
+    low pc = [00000000]
+    abstract origin = REF 000007D0
+ SUBPROGRAM [000008FF]
+  external = 00000001
+  name = "therm_write_byte"
+  decl file = 00000001
+  decl line = 000000B4
+  unknown 2007 = "_Z16therm_write_byteh"
+  low pc = [0000019E]
+  high pc = [000001BA]
+  frame base = 00000320
+  unknown 2117 = 00000001
+  sibling = REF 00000955
+  FORMAL PARAMETER [0000091C]
+   name = "byte"
+   decl file = 00000001
+   decl line = 000000B4
+   type = REF 0000049A
+   location = 0000034F
+  LEXICAL BLOCK [0000092B]
+   low pc = [000001A4]
+   high pc = [000001B4]
+   VARIABLE [00000934]
+    name = "i"
+    decl file = 00000001
+    decl line = 000000B5
+    type = REF 0000049A
+    location = 00000378
+   Unknown 4109 [00000941]
+    low pc = [000001B0]
+    abstract origin = REF 00000736
+    Unknown 410A [0000094A]
+     location (1 bytes) = R24 
+     unknown 2111 = block (4 bytes)
+ SUBPROGRAM [00000955]
+  external = 00000001
+  name = "therm_read_temperature"
+  decl file = 00000001
+  decl line = 000000CE
+  unknown 2007 = "_Z22therm_read_temperaturev"
+  type = REF 00000493
+  low pc = [00000000]
+  high pc = [00000000]
+  frame base = 000003C0
+  unknown 2117 = 00000001
+  sibling = REF 00000A6D
+  LEXICAL BLOCK [00000976]
+   low pc = [00000000]
+   high pc = [00000000]
+   VARIABLE [0000097F]
+    name = "temperature"
+    decl file = 00000001
+    decl line = 000000CF
+    type = REF 00000A6D
+   VARIABLE [0000098A]
+    name = "digit"
+    decl file = 00000001
+    decl line = 000000D0
+    type = REF 00000493
+    location = 000003E2
+   VARIABLE [00000999]
+    name = "decimal"
+    decl file = 00000001
+    decl line = 000000D1
+    type = REF 000004B3
+   VARIABLE [000009A4]
+    name = "first_run"
+    decl file = 00000001
+    decl line = 000000D2
+    type = REF 0000061C
+    location (5 bytes) = 00000000 
+   INLINED SUBROUTINE [000009B5]
+    abstract origin = REF 00000532
+    low pc = [00000000]
+    high pc = [00000000]
+    unknown 58 = 00000001
+    unknown 59 = 000000D8
+    sibling = REF 000009EE
+    FORMAL PARAMETER [000009C8]
+     abstract origin = REF 0000053E
+     location = 00000408
+    LEXICAL BLOCK [000009D1]
+     low pc = [00000000]
+     high pc = [00000000]
+     VARIABLE [000009DA]
+      abstract origin = REF 0000054A
+      location = 00000420
+     VARIABLE [000009E3]
+      abstract origin = REF 00000555
+      location = 00000438
+   Unknown 4109 [000009EE]
+    low pc = [00000000]
+    abstract origin = REF 00000646
+   Unknown 4109 [000009F7]
+    low pc = [00000000]
+    abstract origin = REF 000008FF
+    sibling = REF 00000A0B
+    Unknown 410A [00000A04]
+     location (1 bytes) = R24 
+     unknown 2111 = block (2 bytes)
+   Unknown 4109 [00000A0B]
+    low pc = [00000000]
+    abstract origin = REF 000008FF
+    sibling = REF 00000A1F
+    Unknown 410A [00000A18]
+     location (1 bytes) = R24 
+     unknown 2111 = block (2 bytes)
+   Unknown 4109 [00000A1F]
+    low pc = [00000000]
+    abstract origin = REF 000007D0
+   Unknown 4109 [00000A28]
+    low pc = [00000000]
+    abstract origin = REF 00000646
+   Unknown 4109 [00000A31]
+    low pc = [00000000]
+    abstract origin = REF 000008FF
+    sibling = REF 00000A45
+    Unknown 410A [00000A3E]
+     location (1 bytes) = R24 
+     unknown 2111 = block (2 bytes)
+   Unknown 4109 [00000A45]
+    low pc = [00000000]
+    abstract origin = REF 000008FF
+    sibling = REF 00000A59
+    Unknown 410A [00000A52]
+     location (1 bytes) = R24 
+     unknown 2111 = block (2 bytes)
+   Unknown 4109 [00000A59]
+    low pc = [00000000]
+    abstract origin = REF 000008B0
+   Unknown 4109 [00000A62]
+    low pc = [00000000]
+    abstract origin = REF 00000646
+ ARRAY TYPE [00000A6D]
+  type = REF 000004A5
+  sibling = REF 00000A7D
+  SUBRANGE TYPE [00000A76]
+   type = REF 00000A7D
+   upper bound = 00000001
+ BASE TYPE [00000A7D]
+  byte size = 00000002
+  encoding = 00000007
+  name = "sizetype"
+ SUBPROGRAM [00000A84]
+  specification = REF 00000560
+  inline = 00000000
+  sibling = REF 00000A94
+  FORMAL PARAMETER [00000A8E]
+   type = REF 000004D7
+ SUBPROGRAM [00000A94]
+  external = 00000001
+  name = "onewire_enum_init"
+  decl file = 00000001
+  decl line = 000000EB
+  unknown 2007 = "_Z17onewire_enum_initv"
+  low pc = [000001BA]
+  high pc = [000001D6]
+  frame base (3 bytes) = [R32]+2 
+  unknown 2117 = 00000001
+  sibling = REF 00000AC9
+  LEXICAL BLOCK [00000AB1]
+   low pc = [000001BE]
+   high pc = [000001C8]
+   VARIABLE [00000ABA]
+    name = "p"
+    decl file = 00000001
+    decl line = 000000EC
+    type = REF 0000049A
+    location = 00000450
+ SUBPROGRAM [00000AC9]
+  external = 00000001
+  name = "onewire_enum_next"
+  decl file = 00000001
+  decl line = 000000F2
+  unknown 2007 = "_Z17onewire_enum_nextv"
+  type = REF 00000BB9
+  low pc = [000001D6]
+  high pc = [00000296]
+  frame base = 00000477
+  unknown 2117 = 00000001
+  sibling = REF 00000BB9
+  LEXICAL BLOCK [00000AEA]
+   low pc = [000001E6]
+   high pc = [00000284]
+   VARIABLE [00000AF3]
+    name = "bp"
+    decl file = 00000001
+    decl line = 000000F9
+    type = REF 0000049A
+    location = 000004F4
+   VARIABLE [00000B01]
+    name = "pprev"
+    decl file = 00000001
+    decl line = 000000FA
+    type = REF 00000BB9
+    location = 0000052A
+   VARIABLE [00000B10]
+    name = "prev"
+    decl file = 00000001
+    decl line = 000000FB
+    type = REF 0000049A
+    location = 0000055F
+   VARIABLE [00000B1F]
+    name = "next"
+    decl file = 00000001
+    decl line = 000000FC
+    type = REF 0000049A
+    location = 0000057D
+   VARIABLE [00000B2E]
+    name = "p"
+    decl file = 00000001
+    decl line = 000000FE
+    type = REF 0000049A
+    location = 000005B3
+   VARIABLE [00000B3B]
+    name = "newfork"
+    decl file = 00000001
+    decl line = 00000100
+    type = REF 0000049A
+    location = 000005D2
+   LEXICAL BLOCK [00000B4B]
+    low pc = [00000214]
+    high pc = [00000272]
+    sibling = REF 00000B9E
+    VARIABLE [00000B58]
+     name = "not0"
+     decl file = 00000001
+     decl line = 00000102
+     type = REF 0000049A
+     location = 000005F1
+    VARIABLE [00000B68]
+     name = "not1"
+     decl file = 00000001
+     decl line = 00000103
+     type = REF 0000049A
+     location = 00000604
+    Unknown 4109 [00000B78]
+     low pc = [00000216]
+     abstract origin = REF 000007D0
+    Unknown 4109 [00000B81]
+     low pc = [0000021A]
+     abstract origin = REF 000007D0
+    Unknown 4109 [00000B8A]
+     low pc = [00000252]
+     abstract origin = REF 000008FF
+     Unknown 410A [00000B93]
+      location (1 bytes) = R24 
+      unknown 2111 = block (5 bytes)
+   Unknown 4109 [00000B9E]
+    low pc = [000001FA]
+    abstract origin = REF 00000646
+   Unknown 4109 [00000BA7]
+    low pc = [00000206]
+    abstract origin = REF 000008FF
+    Unknown 410A [00000BB0]
+     location (1 bytes) = R24 
+     unknown 2111 = block (2 bytes)
+ POINTER TYPE [00000BB9]
+  byte size = 00000002
+  type = REF 0000049A
+ SUBPROGRAM [00000BBF]
+  external = 00000001
+  name = "main"
+  decl file = 00000001
+  decl line = 0000012E
+  type = REF 000004AC
+  low pc = [00000296]
+  high pc = [000002E8]
+  frame base (3 bytes) = [R32]+2 
+  unknown 2117 = 00000001
+  sibling = REF 00000C2C
+  INLINED SUBROUTINE [00000BDD]
+   abstract origin = REF 00000532
+   low pc = [000002D4]
+   high pc = [000002E8]
+   unknown 58 = 00000001
+   unknown 59 = 00000139
+   sibling = REF 00000C19
+   FORMAL PARAMETER [00000BF1]
+    abstract origin = REF 0000053E
+    const value = block (4 bytes)
+   LEXICAL BLOCK [00000BFB]
+    low pc = [000002D4]
+    high pc = [000002E8]
+    VARIABLE [00000C04]
+     abstract origin = REF 0000054A
+     const value = block (4 bytes)
+    VARIABLE [00000C0E]
+     abstract origin = REF 00000555
+     const value = 005B8D80
+  Unknown 4109 [00000C19]
+   low pc = [000002BE]
+   abstract origin = REF 00000A94
+  Unknown 4109 [00000C22]
+   low pc = [000002C0]
+   abstract origin = REF 00000AC9
+ ARRAY TYPE [00000C2C]
+  type = REF 000004A5
+  sibling = REF 00000C3C
+  SUBRANGE TYPE [00000C35]
+   type = REF 00000A7D
+   upper bound = 00000009
+ VARIABLE [00000C3C]
+  name = "sevenSegNum"
+  decl file = 00000001
+  decl line = 00000032
+  type = REF 00000C4D
+  location (5 bytes) = 00000016 
+ CONST TYPE [00000C4D]
+  type = REF 00000C2C
+ VARIABLE [00000C52]
+  name = "g_temp"
+  decl file = 00000001
+  decl line = 00000062
+  type = REF 00000493
+  external = 00000001
+  location (5 bytes) = 0080006C 
+ VARIABLE [00000C64]
+  name = "g_selectSensor"
+  decl file = 00000001
+  decl line = 00000062
+  type = REF 00000493
+  external = 00000001
+  location (5 bytes) = 0080006B 
+ ARRAY TYPE [00000C76]
+  type = REF 000004A5
+  sibling = REF 00000C86
+  SUBRANGE TYPE [00000C7F]
+   type = REF 00000A7D
+   upper bound = 00000007
+ VARIABLE [00000C86]
+  name = "onewire_enum"
+  decl file = 00000001
+  decl line = 000000E7
+  type = REF 00000C76
+  external = 00000001
+  location (5 bytes) = 00800063 
+ VARIABLE [00000C98]
+  name = "onewire_enum_fork_bit"
+  decl file = 00000001
+  decl line = 000000E8
+  type = REF 000004BE
+  external = 00000001
+  location (5 bytes) = 00800061 
+
+Loading Variable 'step'.
+BASE TYPE 'char' : loc=0000061C, type = 2, format = 6, size=1
+Loading Variable 'first_run'.
+BASE TYPE 'char' : loc=0000061C, type = 2, format = 6, size=1
+Loading Variable 'sevenSegNum'.
+BASE TYPE 'unsigned char' : loc=000004A5, type = 2, format = 6, size=1
+Loading Variable 'g_temp'.
+BASE TYPE 'signed char' : loc=00000493, type = 2, format = 6, size=1
+Loading Variable 'g_selectSensor'.
+BASE TYPE 'signed char' : loc=00000493, type = 2, format = 6, size=1
+Loading Variable 'onewire_enum'.
+BASE TYPE 'unsigned char' : loc=000004A5, type = 2, format = 6, size=1
+Loading Variable 'onewire_enum_fork_bit'.
+BASE TYPE 'unsigned int' : loc=000004BE, type = 3, format = 4, size=2
