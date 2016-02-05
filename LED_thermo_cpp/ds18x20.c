@@ -370,9 +370,14 @@ uint8_t DS18X20_read_temp( uint8_t id[] ,signed char *temp)
 {
 	uint8_t ret;
 	ow_command( DS18X20_READ, id );
+
 	*temp = ow_byte_rd();
+	for (char i = 0 ; i < 8 ; i++)
+	{
+		ow_byte_rd();
+	}
 	*temp = (*temp)/2;
-	ow_reset();
+//	ow_reset();
 	
 }
 
