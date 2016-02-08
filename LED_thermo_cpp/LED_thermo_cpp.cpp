@@ -290,7 +290,7 @@ int main(void)
 				g_selectSensor = 0;
 				SendTempDataToBase();
 		
-				if (numOfSensors > 0)//Если есть еще датчики то читаем от него данные
+				if (numOfSensors > 1)//Если есть еще датчики то читаем от него данные
 				{
 					if (g_cyclesToSleep == 0)
 					{

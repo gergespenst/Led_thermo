@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Project xsi:noNamespaceSchemaLocation="Project.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Version current="1"/>
+	<Format>Project</Format>
+	<Header>
+		<Program name="TopoR" version="6.1"/>
+		<GUID>{B9FDD55D-B60F-4F71-89AC-205FA5B6A2A2}</GUID>
+		<Annotation>Project file</Annotation>
+	</Header>
+	<Document>
+		<LocalLibrary />
+		<Pcb>
+			<File path=".\Led_thermo.fsx" Folder="-1" isopened="0"/>
+			<File path=".\Led_thermo_first.fsx" Folder="-1" isopened="0"/>
+			<File path=".\Led_thermo_first_final.fsx" Folder="-1" isopened="1"/>
+		</Pcb>
+		<Documents path="F:\NAR\2016\hobby\LED_thermo_cpp\плата\"/>
+		<Import>
+			<Specctra>
+			<Path name="F:\NAR\2016\hobby\LED_thermo_cpp\плата\Led_thermo.dsn"/>
+			</Specctra>
+		</Import>
+		<ARouteSessions>
+			<Session name="Led_thermo" date="2016-02-05 14:48:25" path=".\autoroute_Led_thermo_160205144825\">
+			<File path=".\autoroute_Led_thermo_160205144825\Led_thermo_1853-14s.fsb" Folder="-1" isopened="0"/>
+			</Session>
+			<Session name="Led_thermo" date="2016-02-05 14:52:10" path=".\autoroute_Led_thermo_160205145210\">
+			<File path=".\autoroute_Led_thermo_160205145210\Led_thermo_1966-10sa.fsb" Folder="-1" isopened="0"/>
+			</Session>
+			<Session name="Led_thermo" date="2016-02-05 14:53:05" path=".\autoroute_Led_thermo_160205145305\">
+			<File path=".\autoroute_Led_thermo_160205145305\Led_thermo_2912-28sa.fsb" Folder="-1" isopened="0"/>
+			</Session>
+			<Session name="Led_thermo" date="2016-02-05 14:54:31" path=".\autoroute_Led_thermo_160205145431\">
+			<File path=".\autoroute_Led_thermo_160205145431\Led_thermo_2567-34sa.fsb" Folder="-1" isopened="0"/>
+			</Session>
+			<Session name="Led_thermo" date="2016-02-05 14:57:21" path=".\autoroute_Led_thermo_160205145721\">
+			<File path=".\autoroute_Led_thermo_160205145721\Led_thermo_1567-8sa.fsb" Folder="-1" isopened="0"/>
+			</Session>
+			<Session name="Led_thermo" date="2016-02-05 15:04:37" path=".\autoroute_Led_thermo_160205150437\">
+			<File path=".\autoroute_Led_thermo_160205150437\Led_thermo_2806-20sa.fsb" Folder="-1" isopened="0"/>
+			</Session>
+			<Session name="Led_thermo" date="2016-02-08 09:27:41" path=".\autoroute_Led_thermo_160208092741\">
+			<File path=".\autoroute_Led_thermo_160208092741\Led_thermo_2183-16s.fsb" Folder="-1" isopened="0"/>
+			</Session>
+			<Session name="Led_thermo" date="2016-02-08 09:30:17" path=".\autoroute_Led_thermo_160208093017\">
+			<File path=".\autoroute_Led_thermo_160208093017\Led_thermo_2608-18s.fsb" Folder="-1" isopened="0"/>
+			</Session>
+			<Session name="Led_thermo" date="2016-02-08 09:39:48" path=".\autoroute_Led_thermo_160208093948\">
+			<File path=".\autoroute_Led_thermo_160208093948\Led_thermo_1780-8s.fsb" Folder="-1" isopened="0"/>
+			</Session>
+			<Session name="Led_thermo" date="2016-02-08 09:42:34" path=".\autoroute_Led_thermo_160208094234\">
+			<File path=".\autoroute_Led_thermo_160208094234\Led_thermo_1595-4s.fsb" Folder="-1" isopened="0"/>
+			</Session>
+			<Session name="Led_thermo" date="2016-02-08 09:47:50" path=".\autoroute_Led_thermo_160208094750\">
+			<File path=".\autoroute_Led_thermo_160208094750\Led_thermo_1946-8s.fsb" Folder="-1" isopened="0"/>
+			</Session>
+			<Session name="Led_thermo" date="2016-02-08 09:53:18" path=".\autoroute_Led_thermo_160208095318\">
+			<File path=".\autoroute_Led_thermo_160208095318\Led_thermo_1754-0s.fsb" Folder="-1" isopened="0"/>
+			</Session>
+			<Session name="Led_thermo" date="2016-02-08 09:55:34" path=".\autoroute_Led_thermo_160208095534\">
+			<File path=".\autoroute_Led_thermo_160208095534\Led_thermo_1481-2s.fsb" Folder="-1" isopened="0"/>
+			</Session>
+			<Session name="Led_thermo" date="2016-02-08 09:56:35" path=".\autoroute_Led_thermo_160208095635\">
+			<File path=".\autoroute_Led_thermo_160208095635\Led_thermo_1557-6s.fsb" Folder="-1" isopened="0"/>
+			</Session>
+			<Session name="Led_thermo" date="2016-02-08 10:04:53" path=".\autoroute_Led_thermo_160208100453\">
+			<File path=".\autoroute_Led_thermo_160208100453\Led_thermo_1605-2s.fsb" Folder="-1" isopened="0"/>
+			</Session>
+			<Session name="Led_thermo" date="2016-02-08 10:05:15" path=".\autoroute_Led_thermo_160208100515\">
+			<File path=".\autoroute_Led_thermo_160208100515\Led_thermo_2049-4s.fsb" Folder="-1" isopened="0"/>
+			</Session>
+			<Session name="Led_thermo" date="2016-02-08 10:07:07" path=".\autoroute_Led_thermo_160208100707\">
+			<File path=".\autoroute_Led_thermo_160208100707\Led_thermo_1682-4s.fsb" Folder="-1" isopened="0"/>
+			</Session>
+			<Session name="Led_thermo" date="2016-02-08 10:46:55" path=".\autoroute_Led_thermo_160208104655\">
+			<File path=".\autoroute_Led_thermo_160208104655\Led_thermo_1669-8sa.fsb" Folder="-1" isopened="0"/>
+			</Session>
+			<Session name="Led_thermo" date="2016-02-08 10:56:41" path=".\autoroute_Led_thermo_160208105641\">
+			<File path=".\autoroute_Led_thermo_160208105641\Led_thermo_1344-8s.fsb" Folder="-1" isopened="0"/>
+			</Session>
+			<Session name="Led_thermo" date="2016-02-08 10:58:13" path=".\autoroute_Led_thermo_160208105813\">
+			<File path=".\autoroute_Led_thermo_160208105813\Led_thermo_1368-4s.fsb" Folder="-1" isopened="0"/>
+			</Session>
+			<Session name="Led_thermo" date="2016-02-08 10:59:19" path=".\autoroute_Led_thermo_160208105919\">
+			<File path=".\autoroute_Led_thermo_160208105919\Led_thermo_1111-0s.fsb" Folder="-1" isopened="0"/>
+			</Session>
+			<Session name="Led_thermo" date="2016-02-08 10:59:41" path=".\autoroute_Led_thermo_160208105941\">
+			<File path=".\autoroute_Led_thermo_160208105941\Led_thermo_1500-8s.fsb" Folder="-1" isopened="0"/>
+			</Session>
+			<Session name="Led_thermo" date="2016-02-08 11:09:50" path=".\autoroute_Led_thermo_160208110950\">
+			<File path=".\autoroute_Led_thermo_160208110950\Led_thermo_1322-6s.fsb" Folder="-1" isopened="0"/>
+			</Session>
+			<Session name="Led_thermo" date="2016-02-08 11:13:07" path=".\autoroute_Led_thermo_160208111307\">
+			<File path=".\autoroute_Led_thermo_160208111307\Led_thermo_1468-4s.fsb" Folder="-1" isopened="0"/>
+			</Session>
+			<Session name="Led_thermo" date="2016-02-08 11:14:59" path=".\autoroute_Led_thermo_160208111459\">
+			<File path=".\autoroute_Led_thermo_160208111459\Led_thermo_1298-6s.fsb" Folder="-1" isopened="0"/>
+			</Session>
+			<Session name="Led_thermo" date="2016-02-08 11:20:01" path=".\autoroute_Led_thermo_160208112001\">
+			<File path=".\autoroute_Led_thermo_160208112001\Led_thermo_1437-4s.fsb" Folder="-1" isopened="0"/>
+			</Session>
+			<Session name="Led_thermo" date="2016-02-08 11:20:41" path=".\autoroute_Led_thermo_160208112041\">
+			<File path=".\autoroute_Led_thermo_160208112041\Led_thermo_1383-8s.fsb" Folder="-1" isopened="0"/>
+			</Session>
+			<Session name="Led_thermo" date="2016-02-08 11:26:26" path=".\autoroute_Led_thermo_160208112626\">
+			<File path=".\autoroute_Led_thermo_160208112626\Led_thermo_1302-14s.fsb" Folder="-1" isopened="0"/>
+			</Session>
+			<Session name="Led_thermo" date="2016-02-08 11:31:20" path=".\autoroute_Led_thermo_160208113120\">
+			<File path=".\autoroute_Led_thermo_160208113120\Led_thermo_1362-10s.fsb" Folder="-1" isopened="0"/>
+			</Session>
+			<Session name="Led_thermo" date="2016-02-08 11:32:33" path=".\autoroute_Led_thermo_160208113233\">
+			<File path=".\autoroute_Led_thermo_160208113233\Led_thermo_1474-8s.fsb" Folder="-1" isopened="0"/>
+			</Session>
+			<Session name="Led_thermo" date="2016-02-08 11:36:14" path=".\autoroute_Led_thermo_160208113614\">
+			<File path=".\autoroute_Led_thermo_160208113614\Led_thermo_1292-4s.fsb" Folder="-1" isopened="0"/>
+			</Session>
+			<Session name="Led_thermo" date="2016-02-08 11:38:15" path=".\autoroute_Led_thermo_160208113815\">
+			<File path=".\autoroute_Led_thermo_160208113815\Led_thermo_1348-6s.fsb" Folder="-1" isopened="0"/>
+			</Session>
+			<Session name="Led_thermo" date="2016-02-08 11:50:11" path=".\autoroute_Led_thermo_160208115011\">
+			<File path=".\autoroute_Led_thermo_160208115011\Led_thermo_1352-8s.fsb" Folder="-1" isopened="0"/>
+			</Session>
+			<Session name="Led_thermo" date="2016-02-08 11:51:21" path=".\autoroute_Led_thermo_160208115121\">
+			<File path=".\autoroute_Led_thermo_160208115121\Led_thermo_1234-6s.fsb" Folder="-1" isopened="0"/>
+			</Session>
+			<Session name="Led_thermo" date="2016-02-08 11:51:55" path=".\autoroute_Led_thermo_160208115155\">
+			<File path=".\autoroute_Led_thermo_160208115155\Led_thermo_1231-6s.fsb" Folder="-1" isopened="0"/>
+			</Session>
+			<Session name="Led_thermo" date="2016-02-08 11:52:56" path=".\autoroute_Led_thermo_160208115256\">
+			<File path=".\autoroute_Led_thermo_160208115256\Led_thermo_1292-6s.fsb" Folder="-1" isopened="0"/>
+			</Session>
+			<Session name="Led_thermo" date="2016-02-08 11:54:18" path=".\autoroute_Led_thermo_160208115418\">
+			<File path=".\autoroute_Led_thermo_160208115418\Led_thermo_1309-6s.fsb" Folder="-1" isopened="0"/>
+			</Session>
+			<Session name="Led_thermo" date="2016-02-08 11:55:31" path=".\autoroute_Led_thermo_160208115531\">
+			<File path=".\autoroute_Led_thermo_160208115531\Led_thermo_1282-8s.fsb" Folder="-1" isopened="0"/>
+			</Session>
+			<Session name="Led_thermo" date="2016-02-08 11:57:16" path=".\autoroute_Led_thermo_160208115716\">
+			<File path=".\autoroute_Led_thermo_160208115716\Led_thermo_1519-8s.fsb" Folder="-1" isopened="0"/>
+			</Session>
+			<Session name="Led_thermo" date="2016-02-08 11:58:50" path=".\autoroute_Led_thermo_160208115850\">
+			<File path=".\autoroute_Led_thermo_160208115850\Led_thermo_1520-8s.fsb" Folder="-1" isopened="0"/>
+			</Session>
+			<Session name="Led_thermo" date="2016-02-08 11:59:29" path=".\autoroute_Led_thermo_160208115929\">
+			<File path=".\autoroute_Led_thermo_160208115929\Led_thermo_1312-8s.fsb" Folder="-1" isopened="0"/>
+			</Session>
+			<Session name="Led_thermo" date="2016-02-08 11:59:53" path=".\autoroute_Led_thermo_160208115953\">
+			<File path=".\autoroute_Led_thermo_160208115953\Led_thermo_1267-6s.fsb" Folder="-1" isopened="0"/>
+			</Session>
+			<Session name="Led_thermo" date="2016-02-08 12:02:09" path=".\autoroute_Led_thermo_160208120209\">
+			<File path=".\autoroute_Led_thermo_160208120209\Led_thermo_1388-2s.fsb" Folder="-1" isopened="0"/>
+			</Session>
+			<Session name="Led_thermo" date="2016-02-08 12:03:09" path=".\autoroute_Led_thermo_160208120309\">
+			<File path=".\autoroute_Led_thermo_160208120309\Led_thermo_1464-6s.fsb" Folder="-1" isopened="0"/>
+			</Session>
+			<Session name="Led_thermo" date="2016-02-08 12:03:44" path=".\autoroute_Led_thermo_160208120344\">
+			<File path=".\autoroute_Led_thermo_160208120344\Led_thermo_1425-8s.fsb" Folder="-1" isopened="0"/>
+			</Session>
+			<Session name="Led_thermo" date="2016-02-08 12:04:20" path=".\autoroute_Led_thermo_160208120420\">
+			<File path=".\autoroute_Led_thermo_160208120420\Led_thermo_1389-2s.fsb" Folder="-1" isopened="0"/>
+			</Session>
+			<Session name="Led_thermo" date="2016-02-08 12:04:47" path=".\autoroute_Led_thermo_160208120447\">
+			<File path=".\autoroute_Led_thermo_160208120447\Led_thermo_1371-2s.fsb" Folder="-1" isopened="0"/>
+			</Session>
+			<Session name="Led_thermo" date="2016-02-08 12:05:47" path=".\autoroute_Led_thermo_160208120547\">
+			<File path=".\autoroute_Led_thermo_160208120547\Led_thermo_1283-4s.fsb" Folder="-1" isopened="0"/>
+			</Session>
+			<Session name="Led_thermo" date="2016-02-08 12:06:37" path=".\autoroute_Led_thermo_160208120637\">
+			<File path=".\autoroute_Led_thermo_160208120637\Led_thermo_1254-6s.fsb" Folder="-1" isopened="0"/>
+			</Session>
+			<Session name="Led_thermo" date="2016-02-08 12:07:45" path=".\autoroute_Led_thermo_160208120745\">
+			<File path=".\autoroute_Led_thermo_160208120745\Led_thermo_1310-4s.fsb" Folder="-1" isopened="0"/>
+			</Session>
+			<Session name="Led_thermo" date="2016-02-08 12:07:56" path=".\autoroute_Led_thermo_160208120756\">
+			<File path=".\autoroute_Led_thermo_160208120756\Led_thermo_1359-6s.fsb" Folder="-1" isopened="0"/>
+			</Session>
+			<Session name="Led_thermo" date="2016-02-08 12:08:39" path=".\autoroute_Led_thermo_160208120839\">
+			<File path=".\autoroute_Led_thermo_160208120839\Led_thermo_1554-6s.fsb" Folder="-1" isopened="0"/>
+			</Session>
+			<Session name="Led_thermo" date="2016-02-08 12:09:26" path=".\autoroute_Led_thermo_160208120926\">
+			<File path=".\autoroute_Led_thermo_160208120926\Led_thermo_1458-8s.fsb" Folder="-1" isopened="0"/>
+			</Session>
+			<Session name="Led_thermo" date="2016-02-08 12:10:25" path=".\autoroute_Led_thermo_160208121025\">
+			<File path=".\autoroute_Led_thermo_160208121025\Led_thermo_1320-6s.fsb" Folder="-1" isopened="0"/>
+			</Session>
+			<Session name="Led_thermo" date="2016-02-08 12:11:14" path=".\autoroute_Led_thermo_160208121114\">
+			<File path=".\autoroute_Led_thermo_160208121114\Led_thermo_1253-6s.fsb" Folder="-1" isopened="0"/>
+			</Session>
+			<Session name="Led_thermo" date="2016-02-08 12:12:05" path=".\autoroute_Led_thermo_160208121205\">
+			<File path=".\autoroute_Led_thermo_160208121205\Led_thermo_1255-8s.fsb" Folder="-1" isopened="0"/>
+			</Session>
+			<Session name="Led_thermo" date="2016-02-08 12:13:24" path=".\autoroute_Led_thermo_160208121324\">
+			<File path=".\autoroute_Led_thermo_160208121324\Led_thermo_1316-8s.fsb" Folder="-1" isopened="0"/>
+			</Session>
+			<Session name="Led_thermo" date="2016-02-08 12:14:00" path=".\autoroute_Led_thermo_160208121400\">
+			<File path=".\autoroute_Led_thermo_160208121400\Led_thermo_1301-8s.fsb" Folder="-1" isopened="0"/>
+			</Session>
+			<Session name="Led_thermo" date="2016-02-08 12:15:00" path=".\autoroute_Led_thermo_160208121500\">
+			<File path=".\autoroute_Led_thermo_160208121500\Led_thermo_1369-6s.fsb" Folder="-1" isopened="0"/>
+			</Session>
+			<Session name="Led_thermo" date="2016-02-08 12:16:01" path=".\autoroute_Led_thermo_160208121601\">
+			<File path=".\autoroute_Led_thermo_160208121601\Led_thermo_1231-8s.fsb" Folder="-1" isopened="0"/>
+			</Session>
+			<Session name="Led_thermo" date="2016-02-08 12:17:17" path=".\autoroute_Led_thermo_160208121717\">
+			<File path=".\autoroute_Led_thermo_160208121717\Led_thermo_1230-8s.fsb" Folder="-1" isopened="0"/>
+			</Session>
+			<Session name="Led_thermo" date="2016-02-08 12:18:29" path=".\autoroute_Led_thermo_160208121829\">
+			<File path=".\autoroute_Led_thermo_160208121829\Led_thermo_1309-2s.fsb" Folder="-1" isopened="0"/>
+			</Session>
+			<Session name="Led_thermo_first" date="2016-02-08 12:20:48" path=".\autoroute_Led_thermo_first_160208122048\">
+			<File path=".\autoroute_Led_thermo_first_160208122048\Led_thermo_first_1277-8s.fsb" Folder="-1" isopened="0"/>
+			</Session>
+			<Session name="Led_thermo_first" date="2016-02-08 13:03:08" path=".\autoroute_Led_thermo_first_160208130308\">
+			<File path=".\autoroute_Led_thermo_first_160208130308\Led_thermo_first_1292-2s.fsb" Folder="-1" isopened="0"/>
+			</Session>
+			<Session name="Led_thermo_first" date="2016-02-08 13:06:26" path=".\autoroute_Led_thermo_first_160208130626\">
+			<File path=".\autoroute_Led_thermo_first_160208130626\Led_thermo_first_1198-2s.fsb" Folder="-1" isopened="0"/>
+			</Session>
+			<Session name="Led_thermo" date="2016-02-08 13:08:39" path=".\autoroute_Led_thermo_160208130839\">
+			<File path=".\autoroute_Led_thermo_160208130839\Led_thermo_1206-2s.fsb" Folder="-1" isopened="0"/>
+			</Session>
+			<Session name="Led_thermo" date="2016-02-08 13:09:19" path=".\autoroute_Led_thermo_160208130919\">
+			<File path=".\autoroute_Led_thermo_160208130919\Led_thermo_1221-4s.fsb" Folder="-1" isopened="0"/>
+			</Session>
+			<Session name="Led_thermo" date="2016-02-08 13:10:10" path=".\autoroute_Led_thermo_160208131010\">
+			<File path=".\autoroute_Led_thermo_160208131010\Led_thermo_1199-4s.fsb" Folder="-1" isopened="0"/>
+			</Session>
+			<Session name="Led_thermo" date="2016-02-08 13:11:54" path=".\autoroute_Led_thermo_160208131154\">
+			<File path=".\autoroute_Led_thermo_160208131154\Led_thermo_1232-4s.fsb" Folder="-1" isopened="0"/>
+			</Session>
+			<Session name="Led_thermo" date="2016-02-08 13:14:10" path=".\autoroute_Led_thermo_160208131410\">
+			<File path=".\autoroute_Led_thermo_160208131410\Led_thermo_1265-4s.fsb" Folder="-1" isopened="0"/>
+			</Session>
+		</ARouteSessions>
+	</Document>
+</Project>
